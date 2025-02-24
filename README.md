@@ -1,54 +1,13 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+    <h2 id="P2">Thân thế</h2>
+    <p>Đại Hành Hoàng đé huý là Lê Hoàn, sinh ngày 15 tháng 7 năm Tân Sửu( 10 tháng 8 năm 941), cha là Lê Mịch, mẹ là Đặng Thị Sen, quê hương của ông vẫn còn đang là vấn đề gây tranh cãi.</p>
+    <p>Câu chuyện ông sinh ra đã nhuốm màu truyền thuyết. Khi mới có thai, mẹ ông chiêm bao thấy trong bụng nở hoa sen, chỉ chốc lát đã sinh ra Lê Hoàn.</p>
+    <p>Trong thôn có viên quan án là Lê Đột trông thấy lấy làm lạ, nói:" Tư cách đứa trẻ này, người thường không sánh được", bèn nhận làm con nuôi, chăm sóc dạy dỗ, không khác gì con đẻ. Có đêm mùa đông trời rét, lê Hoàn úp cối mà ngủ. đêm ấy ánh sáng đẹp đầy nhà, viên quan lén đến xem, thì thấy con rồng vàng che ấp bên trên, vì thế lại càng thêm quý trọng lê Hoàn.</p>
+    
+    <h2 id="P3">Niên hiệu</h2>
+    <p>Giữa năm 1005, Lê Đại Hành mất. Ông ở ngôi tất cả 26 năm, thọ 65 tuổi. Trong 26 năm làm vua, ông đặt 3 niên hiệu:</p>
+    <ul>
+    <li>Thiên Phúc(980-988)</li>
+    <li>Hưng Thống(989-993)</li>
+    <li>Ứng Thiên(994-1005)</li>
+    </ul>
+</div>
